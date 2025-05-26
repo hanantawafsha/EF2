@@ -12,3 +12,4 @@ C:\Users\HTAWAFSHA\OneDrive - medcor.com\Documents\VS\Task#2\obj\Debug\net8.0\re
 C:\Users\HTAWAFSHA\OneDrive - medcor.com\Documents\VS\Task#2\obj\Debug\net8.0\LibraryManagementSystem.pdb
 C:\Users\HTAWAFSHA\OneDrive - medcor.com\Documents\VS\Task#2\obj\Debug\net8.0\LibraryManagementSystem.genruntimeconfig.cache
 C:\Users\HTAWAFSHA\OneDrive - medcor.com\Documents\VS\Task#2\obj\Debug\net8.0\ref\LibraryManagementSystem.dll
+C:\Users\HTAWAFSHA\OneDrive - medcor.com\Documents\VS\Task#2\obj\Debug\net8.0\LibraryManagementSystem.sourcelink.json
